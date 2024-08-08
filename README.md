@@ -28,7 +28,7 @@
 - **Email**: rajvj129@gmail.com
 
 ---
-<h3 align="left">🚀 Tech Stack</h3>
+<h3 align="left">🚀 Languages and Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -44,8 +44,10 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
-
 
 ---
 
@@ -56,7 +58,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvijay1102&theme=radical" alt="rajvijay1102's GitHub Streak" />
 </p>
-
 
 ---
 
