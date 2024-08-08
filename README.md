@@ -74,11 +74,9 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvijay1102&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajvijay1102's Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvijay1102&theme=radical" alt="rajvijay1102's GitHub Streak" />
 </p>
 
