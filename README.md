@@ -1,15 +1,17 @@
 <h1 align="center">Hello, World! I'm Raj Vijay 🌟</h1>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> 
+<h3 align="left">🌐 Connect with Me:</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/raj-vijay-94b701210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Vijay-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/_raj_vijayvargiya_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@_raj_vijayvargiya_-E4405F?style=flat-square&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.leetcode.com/rajvj1102" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-rajvj1102-orange?style=flat-square&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
