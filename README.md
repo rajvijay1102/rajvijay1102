@@ -1,9 +1,7 @@
 <h1 align="center">Hello, World! I'm Raj Vijay 🌟</h1>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<h3 align="left">🌐 Connect with Me:</h3>
-
-<p align="center">
+<p align="left"> 
   <a href="https://www.linkedin.com/in/raj-vijay-94b701210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -30,6 +28,7 @@
 - **Email**: rajvj129@gmail.com
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -73,7 +72,6 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
@@ -93,8 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay+Hungry.+Stay+Foolish.&author=Steve+Jobs" alt="Inspirational Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" alt="Inspirational Quote">
 </p>
-
----
-
