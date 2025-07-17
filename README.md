@@ -22,7 +22,7 @@
 ### 💬 Ask Me About
 - **Python** | My go-to language for problem-solving.
 - **HTML/CSS** | The foundation of my web development journey.
-- **C** | Where I learned the art of coding.
+- **JAVA** | Where I learned the art of coding.
 
 ### 📫 Reach Me At
 - **Email**: rajvj129@gmail.com
